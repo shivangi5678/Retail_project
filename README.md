@@ -18,8 +18,7 @@ The goal of this project is to analyze retail sales data and categorize over **4
 * **Interactive Heatmap:** Analyzed the relationship between Recency and Frequency scores.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview]
-(retail.dashboard.png)
+![Dashboard Preview](retail.dashboard.png)
 
 
 ## 📂 Project Structure
